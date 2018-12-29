@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Qdisa.FSM
+namespace Qdisa
 {
     public class QdisaStateMachine : QdisaState, IStateMachine
     {

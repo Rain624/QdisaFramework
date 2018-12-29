@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Qdisa.FSM
+namespace Qdisa
 {
     public delegate void QdisaStateDelegate();
     public delegate void QdisaStateDelegateState(IState state);

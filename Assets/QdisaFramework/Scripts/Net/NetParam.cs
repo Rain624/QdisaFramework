@@ -10,7 +10,7 @@ using System;
 using System.Net;
 using System.Net.Sockets;
 
-namespace Qdisa.Net
+namespace Qdisa
 {
     public class NetParam
     {

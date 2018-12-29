@@ -13,7 +13,7 @@ using System.Threading;
 using System.Text;
 
 
-namespace Qdisa.Net
+namespace Qdisa
 {
 
     public class Server

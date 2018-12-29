@@ -9,7 +9,7 @@ using System.Collections;
 using System.Collections.Generic;
 //using System.Diagnostics;
 
-namespace Qdisa.Pool
+namespace Qdisa
 {
 
     /// <description>

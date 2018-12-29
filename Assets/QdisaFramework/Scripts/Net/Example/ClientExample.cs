@@ -6,7 +6,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Qdisa.Net;
+using Qdisa;
 
 public class ClientExample : MonoBehaviour {
     public static NetParam netParam = new NetParam("192.168.21.20", 8090, NetParam.NetProtocol.TCP);

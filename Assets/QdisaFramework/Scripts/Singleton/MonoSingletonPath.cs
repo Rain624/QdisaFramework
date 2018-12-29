@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace Qdisa.Singleton
+namespace Qdisa
 {
     public class QMonoSingletonPath : MonoSingletonPath
     {

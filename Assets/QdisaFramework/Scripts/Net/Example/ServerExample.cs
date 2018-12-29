@@ -6,7 +6,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Qdisa.Net;
+using Qdisa;
 
 
 public class ServerExample : MonoBehaviour {

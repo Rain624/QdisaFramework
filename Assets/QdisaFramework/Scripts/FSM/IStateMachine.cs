@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Qdisa.FSM
+namespace Qdisa
 {
     /// <summary>
     /// 状态机接口

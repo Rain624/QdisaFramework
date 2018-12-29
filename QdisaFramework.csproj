@@ -300,9 +300,7 @@
     <Compile Include="Assets\Manager\JsonManager.cs" />
     <Compile Include="Assets\Manager\PlayerManager.cs" />
     <Compile Include="Assets\Manager\UIManager.cs" />
-    <Compile Include="Assets\QdisaFramework\Scripts\Example\ExampleController.cs" />
-    <Compile Include="Assets\QdisaFramework\Scripts\Example\PoolExample.cs" />
-    <Compile Include="Assets\QdisaFramework\Scripts\Example\TimerTest.cs" />
+    <Compile Include="Assets\QdisaFramework\Scripts\FSM\FSMExample\FSMExample.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\FSM\IState.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\FSM\IStateMachine.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\FSM\ITransition.cs" />
@@ -316,6 +314,7 @@
     <Compile Include="Assets\QdisaFramework\Scripts\Net\NetParam.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\Net\Server.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\PoolManager\PoolManager.cs" />
+    <Compile Include="Assets\QdisaFramework\Scripts\PoolManager\PoolManager\PoolExample.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\PoolManager\PreRuntimePoolItem.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\PoolManager\SpawnPool.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\QdisaEditorToolKit\ConditionalHideAttribute.cs" />
@@ -325,12 +324,14 @@
     <Compile Include="Assets\QdisaFramework\Scripts\Singleton\MonoSingletonCreator.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\Singleton\MonoSingletonPath.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\Singleton\MonoSingletonProperty.cs" />
-    <Compile Include="Assets\QdisaFramework\Scripts\TimeCount\Timer.cs" />
+    <Compile Include="Assets\QdisaFramework\Scripts\TimeCount\Example\TimeExample.cs" />
+    <Compile Include="Assets\QdisaFramework\Scripts\TimeCount\TimeManager.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\WindowManager\WindowDrag.cs" />
     <Compile Include="Assets\QdisaFramework\Scripts\WindowManager\WindowManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\QdisaFramework\Document\Readme.txt" />
+    <None Include="Assets\QdisaFramework\Document\Version.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

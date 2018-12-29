@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.InteropServices;
 using System;
-using Qdisa.Singleton;
+using Qdisa;
 
 
 [DisallowMultipleComponent]

@@ -308,6 +308,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\QdisaFramework\Document\Readme.txt" />
+    <None Include="Assets\QdisaFramework\Document\Version.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

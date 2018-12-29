@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Qdisa.FSM
+namespace Qdisa
 {
     /// <summary>
     /// 用于状态过渡的接口

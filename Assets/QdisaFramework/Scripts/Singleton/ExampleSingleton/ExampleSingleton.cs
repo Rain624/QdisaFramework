@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Qdisa.Singleton; //继承这个空间
+using Qdisa; //继承这个空间
 
+[QMonoSingletonPath("[Game]/ExampleSingleton")]
 public class ExampleSingleton : MonoBehaviour, ISingleton{ //接口 
     public ExampleSingleton()
     {

@@ -10,7 +10,7 @@ using System;
 using System.Text;
 using System.Linq;
 
-namespace Qdisa.Net
+namespace Qdisa
 {
     public class MessageHandle
     {

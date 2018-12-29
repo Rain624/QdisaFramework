@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Qdisa.Singleton;
+using Qdisa;
 
 [QMonoSingletonPath("[Game]/GameManager")]
 public class GameManager : MonoBehaviour,ISingleton {

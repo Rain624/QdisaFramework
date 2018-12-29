@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Reflection;
 
-namespace Qdisa.Singleton
+namespace Qdisa
 {
     public  static class MonoSingletonCreator
     {

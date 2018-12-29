@@ -4,7 +4,7 @@
  * 
  ****************************************************************************/
 
-namespace Qdisa.Singleton
+namespace Qdisa
 {
     public interface ISingleton 
     {
